@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Sina</h1>
 <h3 align="center">A passionate Geek that loves to learn things and gain some exprience</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceenaa&label=Profile%20views&color=0e75b6&style=flat" alt="ceenaa" /> </p>
