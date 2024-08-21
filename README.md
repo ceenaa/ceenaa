@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **ML, software engineering and ...**
+- 🌱 I’m currently learning & researching around **DL, RL, ML, software engineering and ...**
 
 - 📫 How to reach me **sina.moradi4233@gmail.com**
 
