@@ -1,6 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Sina</h1>
+
 🔭 I’m currently working on ML, DL, RL, Software Engineering stuffs<br>📫 You can reach me by email on sina.moradi4233@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceenaa&label=Profile%20views&color=0e75b6&style=flat" alt="ceenaa" /> </p>
+
+<img align="center" src="https://user-images.githubusercontent.com/59034956/225281292-64e07b9f-cfb0-450c-b774-81532efa25ae.svg">
 
 
 ## 🌐 Socials:
